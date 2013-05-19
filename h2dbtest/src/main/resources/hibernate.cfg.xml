@@ -18,6 +18,7 @@
 
         <mapping package="org.nt67.h2dbtest"/>
         <mapping class="org.nt67.h2dbtest.entity.Item"/>
+        <mapping class="org.nt67.h2dbtest.entity.Book"/>
     </session-factory>
 
 </hibernate-configuration>
